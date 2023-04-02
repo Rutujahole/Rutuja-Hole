@@ -1,4 +1,4 @@
-# Rutuja-Hole
+# Rutuja Hole
 ### 🔰 My personal repository
 
 I am a strong and enthusiastic Data Science learner who want to kickstart my career as a Full Stack Data Scientist. I want to do a complete career transition into Data Science. I started to take interest in Data Science in the later stages of my job. I am looking for internship as a data science intern were I can learn and showcase new skills in data science. Please contact me through below mediums:
